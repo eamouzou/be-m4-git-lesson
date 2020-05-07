@@ -36,4 +36,13 @@ class CartsController < ApplicationController
     end
     redirect_to cart_path
   end
+
+  def change_1
+  end
+
+  def change_2
+  end
+
+  def change_3
+  end
 end
